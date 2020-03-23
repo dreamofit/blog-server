@@ -1,0 +1,1 @@
+mvn spring-boot:run -DBASE_DIR="G:/gitlocal/AIChatQC/dataExample"
